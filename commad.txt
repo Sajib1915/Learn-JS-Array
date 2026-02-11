@@ -1,6 +1,10 @@
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m "Added Learn js Array pdf"
 git branch -M main
 git remote add origin https://github.com/Sajib1915/Learn-JS-Array.git
+git push -u origin main
+
+git add .
+git commit -m " "
 git push -u origin main

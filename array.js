@@ -92,3 +92,5 @@ console.log(Array.isArray(friends6))
 console.log(Array.isArray(nums))
 console.log(Array.isArray(food))
 console.log(Array.isArray(age))
+
+// more array: join(),concat(),slice(),splice(),
